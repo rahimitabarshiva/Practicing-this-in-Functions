@@ -1,6 +1,6 @@
 # Practicing-this-in-Functions
 **This menu was previously developed. Now, thanks to JavaScript, when any part of the menu is clicked, it changes its color to red.**
-
+![Image](https://github.com/user-attachments/assets/8215afd6-74fc-4d09-a31c-d9227814f7cb)
 
 
 
